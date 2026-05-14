@@ -39,7 +39,7 @@ The exported file features a tabular structure designed for seamless integration
 To run this project locally, follow these steps:
 
 1. Clone the repository:  
-   git clone [https://github.com/Kai-bio-lab/sound_viewer.git]
+   git clone https://github.com/Kai-bio-lab/sound_viewer.git
 
 3. Install dependencies:  
    npm install
