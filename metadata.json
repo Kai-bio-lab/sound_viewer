@@ -1,0 +1,6 @@
+{
+  "name": "Audio Spectrogram Pro",
+  "description": "An advanced audio player and spectrogram visualizer using STFT for precise frequency mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
