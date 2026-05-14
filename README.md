@@ -39,12 +39,12 @@ The exported file features a tabular structure designed for seamless integration
 To run this project locally, follow these steps:
 
 1. Clone the repository:  
-   git clone \[https://github.com/your-username/sound-viewer.git\](https://github.com/your-username/sound-viewer.git)
+   git clone [https://github.com/Kai-bio-lab/sound_viewer.git]
 
-2. Install dependencies:  
+3. Install dependencies:  
    npm install
 
-3. Start the development server:  
+4. Start the development server:  
    npm run dev
 
 ## **🤝 Contributing**
